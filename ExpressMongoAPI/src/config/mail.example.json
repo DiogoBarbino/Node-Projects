@@ -1,0 +1,6 @@
+{
+    "host":"host_address",
+    "port":2525,
+    "user":"user",
+    "pass":"password"
+}

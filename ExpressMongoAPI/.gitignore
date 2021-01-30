@@ -1,0 +1,6 @@
+# Dependency directories
+node_modules/
+
+# User Config
+src/config/auth.json
+src/config/mail.json
